@@ -1,0 +1,33 @@
+.h1 {
+font-family: "Helvetica";
+color: white;
+}
+
+.h22 {
+  margin-left: 180px;
+}
+
+video {
+  display: block;
+	margin: auto;
+}
+
+.video {
+
+}
+
+.video2 {
+  height: 420px;
+}
+
+.div {
+color: white;
+}
+
+.image {
+  margin-left: 20px;
+}
+
+.audio {
+  margin-left: 20px;
+}
